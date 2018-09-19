@@ -1,0 +1,22 @@
+
+
+
+### Travis CI
+
+1. Make a repository with a README.md
+2. Make an account on https://travis-ci.org
+3. Turn on your repository
+4. Add .travis.yml (see below)
+5. Commit + push
+6. Click the build status image, change dropdown to Markdown, paste into your README.md
+
+
+
+
+### Your .travis.yml file
+
+Make sure it's .travis.yml, and it's in the root (not inside of src/)
+
+    language: node_js
+    node_js:
+      - "10"
