@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dz2383/lines-continuous-integration.svg?branch=master)](https://travis-ci.org/dz2383/lines-continuous-integration)
+
 # Drawing some lines
 
 ## Installation instructions
